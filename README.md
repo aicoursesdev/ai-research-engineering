@@ -10,7 +10,7 @@ Inside: Python for machine learning, Maths warm-up, Your first language model, T
 
 ## Free and Pro
 
-These notebooks are free for everyone. In the course, modules 0 to 4 are free in full, and so is the first lesson of every module after them. **AI Courses Pro** opens every lesson, video and project that explains this code, from $12 a month.
+These notebooks are free for everyone. In the course, modules 0 to 4 are free in full, and so is the first lesson of every module after them. **AI Courses Pro** opens every lesson, video and project that explains this code, from $19 a month.
 
 ## The labs
 
